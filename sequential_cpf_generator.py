@@ -1,6 +1,10 @@
+### Imports
+######################
+# import sys
+
 ### Variables Global
 ######################
-uf    = 1
+uf    = ['GO', 1]
 count = int('00000000')
 
 ### Functions
